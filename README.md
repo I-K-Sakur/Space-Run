@@ -14,3 +14,6 @@ A simple Game for XR-Interactive intern test.
 #Game Over:
 -If the player fall from the ground
 -If the player fail to reach in the destination in the given time
+
+Full GamePlay:
+https://youtu.be/IskGIx2u4bI
