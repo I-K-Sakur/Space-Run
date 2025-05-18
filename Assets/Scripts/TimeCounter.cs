@@ -23,7 +23,7 @@ public class TimeCounter : MonoBehaviour
         {
             timeToDisplay -= Time.deltaTime;
             int realTime = (int)timeToDisplay;
-            timeText.text = "Time Remained: " + realTime.ToString()+"s";
+            timeText.text = "Time Remaining: " + realTime.ToString()+"s";
             Debug.Log(timeToDisplay);
             GameOver();
             GameWinner();
